@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/addauthor.php" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/db.php" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/delete.php" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/editauthor.php" dialect="MySQL" />
+  </component>
+  <component name="SqlResolveMappings">
+    <file url="PROJECT" scope="{&quot;node&quot;:{  &quot;@negative&quot;:&quot;1&quot;,  &quot;group&quot;:{   &quot;@kind&quot;:&quot;root&quot;,   &quot;node&quot;:{    &quot;name&quot;:{     &quot;@qname&quot;:&quot;abf38044-bd99-452d-9c9b-3e5618cfa6f3&quot;    }   }  } }}" />
+  </component>
+</project>

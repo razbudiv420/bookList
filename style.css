@@ -1,0 +1,135 @@
+
+.inactive {
+    display: none;
+}
+
+.active {
+    display: block;
+}
+#addForm {
+
+}
+#addButton{
+
+}
+#editForm {
+
+}
+#editButton {
+
+}
+#editAuthor {
+margin: 0;
+    padding: 0;
+    height: 250px;
+}
+#page-select{
+
+}
+#filterList {
+
+}
+#filter-by-author{
+    display: none;
+}
+#filter-by-name{
+    display: none;
+}
+#filter-by-date{
+    display: none;
+}
+.filter{
+    display: flex;
+    flex-direction: row;
+}
+.filter-form {
+
+    flex-direction: row;
+}
+.navigation {
+    margin: 0 auto;
+}
+.sort {
+    display: flex;
+    flex-direction: row;
+}
+
+.redaction {
+    display: none;
+    width: 370px;
+    height: 400px;
+    margin: 0 auto;
+    position: fixed;
+    top: 500px;
+    left: 750px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: aqua;
+    border: 2px solid #000000;
+}
+.redaction-author {
+    display: none;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    position: absolute;
+    top: 500px;
+    left: 850px;
+    align-items: center;
+    flex-direction: column;
+    background-color: aqua;
+    border: 2px solid #000000;
+}
+.redaction-delete {
+    display: none;
+    width: 300px;
+    height: 170px;
+    margin: 0 auto;
+    position: absolute;
+    top: 500px;
+    left: 850px;
+    align-items: center;
+    flex-direction: column;
+    background-color: aqua;
+    border: 2px solid #000000;
+}
+.bookSection {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+        width: 500px;
+        height: 80%;
+        background-color: azure;
+        margin-top: 100px;
+        margin-bottom: 0;
+        margin-left: auto;
+        margin-right: auto;
+}
+
+.book {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 20%;
+    margin: 5px;
+    font-size: small;
+}
+.book p {
+    margin: 0;
+    padding: 2px;
+}
+
+.btnSection {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 400px;
+    margin: 0 auto;
+}
+a {
+  text-decoration: none;
+}
